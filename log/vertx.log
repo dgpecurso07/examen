@@ -1,0 +1,36 @@
+2018-06-07 22:33:09:704 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7662.13000000"}
+2018-06-07 22:48:21:258 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7644.05000000"}
+2018-06-07 22:49:27:171 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7647.53000000"}
+2018-06-07 22:50:29:269 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7654.53000000"}
+2018-06-07 22:53:48:629 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7659.75000000"}
+2018-06-07 22:56:14:783 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7661.87000000"}
+2018-06-07 23:04:26:363 INFO  TestCalculadora - {
+  "servidor" : "00",
+  "resultado" : 5,
+  "operacion" : "suma"
+}
+2018-06-07 23:05:47:383 INFO  TestCalculadora - {
+  "servidor" : "00",
+  "resultado" : 5,
+  "operacion" : "suma"
+}
+2018-06-07 23:08:06:596 INFO  TestCalculadora - {
+  "servidor" : "00",
+  "resultado" : 5,
+  "operacion" : "suma"
+}
+2018-06-07 23:08:06:611 INFO  TestCalculadora - {
+  "servidor" : "00",
+  "resultado" : 3,
+  "operacion" : "resta"
+}
+2018-06-07 23:08:06:622 INFO  TestCalculadora - {
+  "servidor" : "00",
+  "resultado" : 4,
+  "operacion" : "mult"
+}
+2018-06-07 23:08:06:633 INFO  TestCalculadora - {
+  "servidor" : "00",
+  "resultado" : 4,
+  "operacion" : "div"
+}
