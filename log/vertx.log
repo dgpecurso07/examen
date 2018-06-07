@@ -34,3 +34,23 @@
   "resultado" : 4,
   "operacion" : "div"
 }
+2018-06-07 23:18:12:037 INFO  TestCalculadora - {
+  "servidor" : "00",
+  "resultado" : 5,
+  "operacion" : "suma"
+}
+2018-06-07 23:18:12:056 INFO  TestCalculadora - {
+  "servidor" : "00",
+  "resultado" : 3,
+  "operacion" : "resta"
+}
+2018-06-07 23:18:12:069 INFO  TestCalculadora - {
+  "servidor" : "00",
+  "resultado" : 4,
+  "operacion" : "mult"
+}
+2018-06-07 23:18:12:083 INFO  TestCalculadora - {
+  "servidor" : "00",
+  "resultado" : 4,
+  "operacion" : "div"
+}
