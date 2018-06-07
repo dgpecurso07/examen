@@ -12,6 +12,8 @@ public class TestCalculadora extends AbstractVerticle {
     
     @Test
     public void ok() throws Exception {
+//Nota Para el tester hay que configurar la ip del servidor
+
         String result = sendGet("http://132.248.39.36:8080/calc/suma?a=4&b=1");
         assertTrue("Suma",result.contains("\"resultado\" : 5")==true);
         logger.info(result);

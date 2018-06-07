@@ -1,6 +1,7 @@
 # examen
 Examen primer modulo
 
+
 Como probar la aplicación en dockers balanceados con haproxy:
 
 1. Abrir la terminal
@@ -103,4 +104,7 @@ http://localhost:9090/calc/resta?a=4&b=2
 http://localhost:9090/calc/mult?a=4&b=2
 
 http://localhost:9090/calc/div?a=4&b=2
+
+
+Nota: Para la clase del tester hay que configurar la ip del servidor
 
